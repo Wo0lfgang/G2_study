@@ -30,3 +30,4 @@ chart
     });
 
 chart.render();
+console.log(chart.options());
